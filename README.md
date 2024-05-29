@@ -1,2 +1,2 @@
 # Hyrule-of-Castle
-Coding Challegne
+Coding Challenge
